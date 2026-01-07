@@ -1,5 +1,3 @@
-# 💫 About Me
-
 ## 👋 Hi, I'm Hamza Sheedi
 
 I'm a **student and tech enthusiast** passionate about learning and building with modern, high-impact technologies.  
@@ -47,7 +45,7 @@ I strongly believe in **skill-driven growth**, and my future goals are fully ali
 ## 📊 GitHub Activity
 
 ### 🔥 Contribution Streak
-![](https://github-readme-streak-stats.herokuapp.com/?user=hamzasheedi&theme=dark&hide_border=true)
+![](https://streak-stats.demolab.com?user=hamzasheedi&theme=dark&hide_border=true)
 
 ### 📈 Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=hamzasheedi&theme=github-dark)

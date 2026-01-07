@@ -47,7 +47,7 @@ I strongly believe in **skill-driven growth**, and my future goals are fully ali
 ## 📊 GitHub Activity
 
 ### 🔥 Contribution Streak
-![](https://github-readme-streak-stats.herokuapp.com/?user=hamzasheedi&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=hamzasheedi&theme=dark&hide_border=true)
 
 ### 📈 Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=hamzasheedi&theme=github-dark)

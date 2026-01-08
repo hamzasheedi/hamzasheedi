@@ -1,3 +1,5 @@
+<div align="center">
+
 ## 👋 Hi, I'm Hamza Sheedi
 
 I'm a **student and tech enthusiast** passionate about learning and building with modern, high-impact technologies.  
@@ -9,15 +11,23 @@ I strongly believe in **skill-driven growth**, and my future goals are fully ali
 🚀 *Always curious. Always evolving.*
 
 ---
+</div>
 
 ## 🌐 Socials
+
+<div align="center">
+  
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@test_username)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/test_username)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:safiasalam590@gmail.com)
 
 ---
 
+</div>
+
 ## 💻 Tech Stack
+
+<div align="center">
 
 ### 🧠 AI / ML
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -28,12 +38,14 @@ I strongly believe in **skill-driven growth**, and my future goals are fully ali
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 🌐 Web & Backend
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### ☁️ DevOps & Cloud
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -41,8 +53,11 @@ I strongly believe in **skill-driven growth**, and my future goals are fully ali
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ---
+</div>
 
 ## 📊 GitHub Activity
+
+<div align="center">
 
 ### 🔥 Contribution Streak
 [![GitHub Streak](https://github-readme-streak-stats-jet-six.vercel.app?user=hamzasheedi&theme=python-dark&short_numbers=true)]([https://git.io/streak-stats](https://github-readme-streak-stats-jet-six.vercel.app/))
@@ -58,3 +73,5 @@ I strongly believe in **skill-driven growth**, and my future goals are fully ali
 ---
 
 [![](https://visitcount.itsvg.in/api?id=hamzasheedi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
